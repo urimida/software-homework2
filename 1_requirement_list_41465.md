@@ -1,4 +1,5 @@
-### C235195 송유림
+### 개인코드 : 75036
+### 깃허브 주소 : https://github.com/urimida/software-homework2.git
 
 ---
 
